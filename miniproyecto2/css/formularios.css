@@ -1,0 +1,27 @@
+
+form{
+    border: 1px solid rgb(136, 136, 136);
+    width: 100%;
+    
+    
+
+    
+
+}
+
+@media(min-width:720px){
+    .registro-tabla{
+        display: flex;
+        
+    }
+    .contenedor-form{
+        margin-right: 5px;
+        width: 100%;
+        max-width: 350px;    
+    }
+    table{
+        margin-left: 5px;
+    }
+    
+}
+
